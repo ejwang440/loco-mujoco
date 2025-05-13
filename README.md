@@ -14,7 +14,7 @@
 > LocoMuJoCo now supports MJX and comes with new Jax algorithms. We also added many new environments and +22k datasets! 🚀   
 
 
-**LocoMuJoCo** is an **imitation learning benchmark** specifically designed for **whole-body control**.  
+**LocoMuJoCo** is an **imitation learning benchmark** specifically designed for **whole-body control!**.  
 It features a diverse set of environments, including **quadrupeds**, **humanoids**, and **(musculo-)skeletal human models**,
 each provided with comprehensive datasets (over 22,000 samples per humanoid).
 

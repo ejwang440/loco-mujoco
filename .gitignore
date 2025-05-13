@@ -26,3 +26,4 @@ loco_mujoco/LOCOMUJOCO_VARIABLES.yaml
 **/video2images.sh
 **/expert_traj.npz
 .venv/
+.venv/
